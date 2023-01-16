@@ -1,0 +1,201 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 353-574-018
+INFO:root:2023-01-16 12:38:08.782804 [INFO] ������ /api/posts/
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 12:38:08] "GET /api/posts/ HTTP/1.1" 200 -
+INFO:root:2023-01-16 12:38:56.516217 [INFO] ������ /api/posts/
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 12:38:56] "GET /api/posts/ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\foulj\\PycharmProjects\\CourseWork3\\api\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 353-574-018
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 353-574-018
+INFO:root:2023-01-16 12:39:06.344620 [INFO] Запрос /api/posts/
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 12:39:06] "GET /api/posts/ HTTP/1.1" 200 -
+INFO:root:2023-01-16 12:39:10.061383 [INFO] Запрос /api/posts/
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 12:39:10] "GET /api/posts/ HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 353-574-018
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 12:39:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 12:39:32] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 12:39:32] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 12:39:32] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:2023-01-16 12:39:48.845421 [INFO] Запрос /api/posts/
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 12:39:48] "GET /api/posts/ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\foulj\\PycharmProjects\\CourseWork3\\api\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+2023-01-16 12:45:33,329 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-16 12:45:33,329 [INFO] [33mPress CTRL+C to quit[0m
+2023-01-16 12:45:33,334 [INFO]  * Restarting with stat
+2023-01-16 12:45:33,688 [WARNING]  * Debugger is active!
+2023-01-16 12:45:33,694 [INFO]  * Debugger PIN: 353-574-018
+2023-01-16 12:45:43,796 [INFO] 127.0.0.1 - - [16/Jan/2023 12:45:43] "GET / HTTP/1.1" 200 -
+2023-01-16 12:45:43,933 [INFO] 127.0.0.1 - - [16/Jan/2023 12:45:43] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 12:45:43,970 [INFO] 127.0.0.1 - - [16/Jan/2023 12:45:43] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 12:45:43,973 [INFO] 127.0.0.1 - - [16/Jan/2023 12:45:43] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 12:45:54,258 [INFO] Запрос /api/posts/
+2023-01-16 12:45:54,259 [INFO] 127.0.0.1 - - [16/Jan/2023 12:45:54] "GET /api/posts/ HTTP/1.1" 200 -
+2023-01-16 13:03:44,988 [INFO] 127.0.0.1 - - [16/Jan/2023 13:03:44] "GET /posts/1 HTTP/1.1" 200 -
+2023-01-16 13:03:45,024 [INFO] 127.0.0.1 - - [16/Jan/2023 13:03:45] "[33mGET /posts/static/img/bookmark.png HTTP/1.1[0m" 404 -
+2023-01-16 13:03:45,024 [INFO] 127.0.0.1 - - [16/Jan/2023 13:03:45] "[33mGET /posts/static/img/eye.png HTTP/1.1[0m" 404 -
+2023-01-16 13:03:45,025 [INFO] 127.0.0.1 - - [16/Jan/2023 13:03:45] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 13:03:52,401 [INFO] 127.0.0.1 - - [16/Jan/2023 13:03:52] "GET /posts/2 HTTP/1.1" 200 -
+2023-01-16 13:03:52,475 [INFO] 127.0.0.1 - - [16/Jan/2023 13:03:52] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 13:03:52,482 [INFO] 127.0.0.1 - - [16/Jan/2023 13:03:52] "[33mGET /posts/static/img/bookmark.png HTTP/1.1[0m" 404 -
+2023-01-16 13:03:52,484 [INFO] 127.0.0.1 - - [16/Jan/2023 13:03:52] "[33mGET /posts/static/img/eye.png HTTP/1.1[0m" 404 -
+2023-01-16 13:10:42,517 [INFO]  * Detected change in 'C:\\Users\\foulj\\PycharmProjects\\CourseWork3\\app.py', reloading
+2023-01-16 13:10:42,579 [INFO]  * Restarting with stat
+2023-01-16 13:10:43,076 [WARNING]  * Debugger is active!
+2023-01-16 13:10:43,084 [INFO]  * Debugger PIN: 353-574-018
+2023-01-16 13:20:22,215 [INFO]  * Detected change in 'C:\\Users\\foulj\\PycharmProjects\\CourseWork3\\main\\views.py', reloading
+2023-01-16 13:20:22,339 [INFO]  * Restarting with stat
+2023-01-16 13:20:23,013 [WARNING]  * Debugger is active!
+2023-01-16 13:20:23,020 [INFO]  * Debugger PIN: 353-574-018
+2023-01-16 13:24:40,969 [INFO]  * Detected change in 'C:\\Users\\foulj\\PycharmProjects\\CourseWork3\\main\\views.py', reloading
+2023-01-16 13:24:41,030 [INFO]  * Restarting with stat
+2023-01-16 13:27:34,771 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-16 13:27:34,771 [INFO] [33mPress CTRL+C to quit[0m
+2023-01-16 13:27:34,776 [INFO]  * Restarting with stat
+2023-01-16 13:27:35,117 [WARNING]  * Debugger is active!
+2023-01-16 13:27:35,124 [INFO]  * Debugger PIN: 353-574-018
+2023-01-16 13:27:38,741 [INFO] 127.0.0.1 - - [16/Jan/2023 13:27:38] "GET /meow HTTP/1.1" 200 -
+2023-01-16 13:28:21,889 [INFO]  * Detected change in 'C:\\Users\\foulj\\PycharmProjects\\CourseWork3\\main\\views.py', reloading
+2023-01-16 13:28:21,930 [INFO]  * Restarting with stat
+2023-01-16 13:28:22,294 [WARNING]  * Debugger is active!
+2023-01-16 13:28:22,300 [INFO]  * Debugger PIN: 353-574-018
+2023-01-16 13:30:05,408 [INFO]  * Detected change in 'C:\\Users\\foulj\\PycharmProjects\\CourseWork3\\main\\views.py', reloading
+2023-01-16 13:30:05,453 [INFO]  * Restarting with stat
+2023-01-16 13:30:05,916 [WARNING]  * Debugger is active!
+2023-01-16 13:30:05,922 [INFO]  * Debugger PIN: 353-574-018
+2023-01-16 13:30:11,172 [INFO] 127.0.0.1 - - [16/Jan/2023 13:30:11] "[33mGET /m HTTP/1.1[0m" 404 -
+2023-01-16 13:34:09,057 [INFO] 127.0.0.1 - - [16/Jan/2023 13:34:09] "GET /meow HTTP/1.1" 200 -
+2023-01-16 13:34:09,831 [INFO] 127.0.0.1 - - [16/Jan/2023 13:34:09] "GET /posts/2 HTTP/1.1" 200 -
+2023-01-16 13:34:16,033 [INFO]  * Detected change in 'C:\\Users\\foulj\\PycharmProjects\\CourseWork3\\main\\views.py', reloading
+2023-01-16 13:34:16,074 [INFO]  * Restarting with stat
+2023-01-16 13:40:33,989 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-16 13:40:33,989 [INFO] [33mPress CTRL+C to quit[0m
+2023-01-16 13:40:33,995 [INFO]  * Restarting with stat
+2023-01-16 13:40:34,330 [WARNING]  * Debugger is active!
+2023-01-16 13:40:34,336 [INFO]  * Debugger PIN: 353-574-018
+2023-01-16 13:42:18,448 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:18] "GET /posts/2 HTTP/1.1" 200 -
+2023-01-16 13:42:18,484 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:18] "[33mGET /posts/static/img/bookmark.png HTTP/1.1[0m" 404 -
+2023-01-16 13:42:18,491 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:18] "[33mGET /posts/static/img/eye.png HTTP/1.1[0m" 404 -
+2023-01-16 13:42:18,518 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:18] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 13:42:19,686 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:19] "[33mGET /static HTTP/1.1[0m" 404 -
+2023-01-16 13:42:26,733 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:26] "GET / HTTP/1.1" 200 -
+2023-01-16 13:42:26,814 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:26] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 13:42:26,827 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:26] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 13:42:26,833 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:26] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 13:42:42,178 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:42] "GET /users/leo HTTP/1.1" 200 -
+2023-01-16 13:42:42,274 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:42] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 13:42:42,276 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:42] "[33mGET /users/static/img/eye.png HTTP/1.1[0m" 404 -
+2023-01-16 13:42:42,278 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:42] "[33mGET /users/static/img/bookmark.png HTTP/1.1[0m" 404 -
+2023-01-16 13:42:44,138 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:44] "GET / HTTP/1.1" 200 -
+2023-01-16 13:42:44,210 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:44] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 13:42:44,216 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:44] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 13:42:44,217 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:44] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 13:42:47,288 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:47] "[33mGET /post.html HTTP/1.1[0m" 404 -
+2023-01-16 13:42:51,033 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:51] "GET /users/leo HTTP/1.1" 200 -
+2023-01-16 13:42:51,129 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:51] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 13:42:51,130 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:51] "[33mGET /users/static/img/bookmark.png HTTP/1.1[0m" 404 -
+2023-01-16 13:42:51,133 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:51] "[33mGET /users/static/img/eye.png HTTP/1.1[0m" 404 -
+2023-01-16 13:42:53,249 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:53] "[33mGET /post.html HTTP/1.1[0m" 404 -
+2023-01-16 13:42:58,307 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:58] "GET / HTTP/1.1" 200 -
+2023-01-16 13:42:58,400 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:58] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 13:42:58,402 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:58] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 13:42:58,405 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:58] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 13:42:59,539 [INFO] 127.0.0.1 - - [16/Jan/2023 13:42:59] "[33mGET /bookmarks.html HTTP/1.1[0m" 404 -
+2023-01-16 13:43:31,133 [INFO] 127.0.0.1 - - [16/Jan/2023 13:43:31] "GET /users/johnny HTTP/1.1" 200 -
+2023-01-16 13:43:31,216 [INFO] 127.0.0.1 - - [16/Jan/2023 13:43:31] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 13:43:31,217 [INFO] 127.0.0.1 - - [16/Jan/2023 13:43:31] "[33mGET /users/static/img/eye.png HTTP/1.1[0m" 404 -
+2023-01-16 13:43:31,222 [INFO] 127.0.0.1 - - [16/Jan/2023 13:43:31] "[33mGET /users/static/img/bookmark.png HTTP/1.1[0m" 404 -
+2023-01-16 13:43:34,428 [INFO] 127.0.0.1 - - [16/Jan/2023 13:43:34] "[33mGET /post.html HTTP/1.1[0m" 404 -
+2023-01-16 13:43:36,610 [INFO] 127.0.0.1 - - [16/Jan/2023 13:43:36] "[33mGET /post.html HTTP/1.1[0m" 404 -
+2023-01-16 13:44:45,432 [INFO]  * Detected change in 'C:\\Users\\foulj\\PycharmProjects\\CourseWork3\\main\\views.py', reloading
+2023-01-16 13:44:45,532 [INFO]  * Restarting with stat
+2023-01-16 13:44:45,933 [WARNING]  * Debugger is active!
+2023-01-16 13:44:45,940 [INFO]  * Debugger PIN: 353-574-018
+2023-01-16 13:44:46,629 [INFO] 127.0.0.1 - - [16/Jan/2023 13:44:46] "GET / HTTP/1.1" 200 -
+2023-01-16 13:44:46,765 [INFO] 127.0.0.1 - - [16/Jan/2023 13:44:46] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 13:44:46,778 [INFO] 127.0.0.1 - - [16/Jan/2023 13:44:46] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 13:44:46,790 [INFO] 127.0.0.1 - - [16/Jan/2023 13:44:46] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 13:46:45,583 [INFO] 127.0.0.1 - - [16/Jan/2023 13:46:45] "[35m[1mGET /bookmarks/add/1 HTTP/1.1[0m" 500 -
+2023-01-16 13:46:45,615 [INFO] 127.0.0.1 - - [16/Jan/2023 13:46:45] "GET /bookmarks/add/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2023-01-16 13:46:45,616 [INFO] 127.0.0.1 - - [16/Jan/2023 13:46:45] "GET /bookmarks/add/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2023-01-16 13:46:45,664 [INFO] 127.0.0.1 - - [16/Jan/2023 13:46:45] "GET /bookmarks/add/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2023-01-16 13:46:45,821 [INFO] 127.0.0.1 - - [16/Jan/2023 13:46:45] "[36mGET /bookmarks/add/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-01-16 13:47:14,731 [INFO]  * Detected change in 'C:\\Users\\foulj\\PycharmProjects\\CourseWork3\\main\\views.py', reloading
+2023-01-16 13:47:14,766 [INFO]  * Restarting with stat
+2023-01-16 13:47:15,105 [WARNING]  * Debugger is active!
+2023-01-16 13:47:15,111 [INFO]  * Debugger PIN: 353-574-018
+2023-01-16 13:47:15,154 [INFO] 127.0.0.1 - - [16/Jan/2023 13:47:15] "[35m[1mGET /bookmarks/add/1 HTTP/1.1[0m" 500 -
+2023-01-16 13:47:15,286 [INFO] 127.0.0.1 - - [16/Jan/2023 13:47:15] "[36mGET /bookmarks/add/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-01-16 13:47:15,288 [INFO] 127.0.0.1 - - [16/Jan/2023 13:47:15] "[36mGET /bookmarks/add/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-01-16 13:47:15,306 [INFO] 127.0.0.1 - - [16/Jan/2023 13:47:15] "[36mGET /bookmarks/add/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-01-16 13:47:15,515 [INFO] 127.0.0.1 - - [16/Jan/2023 13:47:15] "[36mGET /bookmarks/add/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-01-16 13:47:25,115 [INFO] 127.0.0.1 - - [16/Jan/2023 13:47:25] "[35m[1mGET /bookmarks/add/1 HTTP/1.1[0m" 500 -
+2023-01-16 13:47:25,186 [INFO] 127.0.0.1 - - [16/Jan/2023 13:47:25] "[36mGET /bookmarks/add/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-01-16 13:47:25,187 [INFO] 127.0.0.1 - - [16/Jan/2023 13:47:25] "[36mGET /bookmarks/add/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-01-16 13:47:25,216 [INFO] 127.0.0.1 - - [16/Jan/2023 13:47:25] "[36mGET /bookmarks/add/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-01-16 13:47:25,422 [INFO] 127.0.0.1 - - [16/Jan/2023 13:47:25] "[36mGET /bookmarks/add/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-01-16 13:47:40,540 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-16 13:47:40,540 [INFO] [33mPress CTRL+C to quit[0m
+2023-01-16 13:47:40,546 [INFO]  * Restarting with stat
+2023-01-16 13:47:40,904 [WARNING]  * Debugger is active!
+2023-01-16 13:47:40,910 [INFO]  * Debugger PIN: 353-574-018
+2023-01-16 13:47:44,565 [INFO] 127.0.0.1 - - [16/Jan/2023 13:47:44] "[35m[1mGET /bookmarks/add/1 HTTP/1.1[0m" 500 -
+2023-01-16 13:47:44,694 [INFO] 127.0.0.1 - - [16/Jan/2023 13:47:44] "[36mGET /bookmarks/add/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-01-16 13:47:44,697 [INFO] 127.0.0.1 - - [16/Jan/2023 13:47:44] "[36mGET /bookmarks/add/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-01-16 13:47:44,712 [INFO] 127.0.0.1 - - [16/Jan/2023 13:47:44] "[36mGET /bookmarks/add/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-01-16 13:47:44,889 [INFO] 127.0.0.1 - - [16/Jan/2023 13:47:44] "[36mGET /bookmarks/add/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-01-16 13:48:10,296 [INFO]  * Detected change in 'C:\\Users\\foulj\\PycharmProjects\\CourseWork3\\main\\views.py', reloading
+2023-01-16 13:48:10,345 [INFO]  * Restarting with stat
+2023-01-16 13:48:10,707 [WARNING]  * Debugger is active!
+2023-01-16 13:48:10,714 [INFO]  * Debugger PIN: 353-574-018
+2023-01-16 13:48:11,184 [INFO] 127.0.0.1 - - [16/Jan/2023 13:48:11] "[35m[1mGET /bookmarks/add/1 HTTP/1.1[0m" 500 -
+2023-01-16 13:48:11,326 [INFO] 127.0.0.1 - - [16/Jan/2023 13:48:11] "[36mGET /bookmarks/add/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-01-16 13:48:11,327 [INFO] 127.0.0.1 - - [16/Jan/2023 13:48:11] "[36mGET /bookmarks/add/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-01-16 13:48:11,352 [INFO] 127.0.0.1 - - [16/Jan/2023 13:48:11] "[36mGET /bookmarks/add/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-01-16 13:48:11,524 [INFO] 127.0.0.1 - - [16/Jan/2023 13:48:11] "[36mGET /bookmarks/add/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-01-16 13:58:04,051 [INFO]  * Detected change in 'C:\\Users\\foulj\\PycharmProjects\\CourseWork3\\dao\\dao_.py', reloading
+2023-01-16 13:58:04,088 [INFO]  * Restarting with stat
+2023-01-16 13:58:04,533 [WARNING]  * Debugger is active!
+2023-01-16 13:58:04,540 [INFO]  * Debugger PIN: 353-574-018
+2023-01-16 13:58:06,679 [INFO] 127.0.0.1 - - [16/Jan/2023 13:58:06] "GET /bookmarks/add/1 HTTP/1.1" 200 -
+2023-01-16 13:58:06,753 [INFO] 127.0.0.1 - - [16/Jan/2023 13:58:06] "[33mGET /bookmarks/add/static/css/styles.min.css HTTP/1.1[0m" 404 -
+2023-01-16 13:58:08,454 [INFO] 127.0.0.1 - - [16/Jan/2023 13:58:08] "GET / HTTP/1.1" 200 -
+2023-01-16 13:58:08,589 [INFO] 127.0.0.1 - - [16/Jan/2023 13:58:08] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 13:58:08,606 [INFO] 127.0.0.1 - - [16/Jan/2023 13:58:08] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 13:58:08,614 [INFO] 127.0.0.1 - - [16/Jan/2023 13:58:08] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 13:58:12,757 [INFO] 127.0.0.1 - - [16/Jan/2023 13:58:12] "[33mGET /bookmarks.html HTTP/1.1[0m" 404 -
+2023-01-16 13:58:17,236 [INFO] Запрос /api/posts/
+2023-01-16 13:58:17,238 [INFO] 127.0.0.1 - - [16/Jan/2023 13:58:17] "GET /api/posts/ HTTP/1.1" 200 -
+2023-01-16 13:58:27,317 [INFO] 127.0.0.1 - - [16/Jan/2023 13:58:27] "GET /bookmarks/add/1 HTTP/1.1" 200 -
+2023-01-16 13:58:27,392 [INFO] 127.0.0.1 - - [16/Jan/2023 13:58:27] "[33mGET /bookmarks/add/static/css/styles.min.css HTTP/1.1[0m" 404 -
+2023-01-16 14:00:07,159 [INFO] 127.0.0.1 - - [16/Jan/2023 14:00:07] "GET / HTTP/1.1" 200 -
+2023-01-16 14:00:07,228 [INFO] 127.0.0.1 - - [16/Jan/2023 14:00:07] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 14:00:07,235 [INFO] 127.0.0.1 - - [16/Jan/2023 14:00:07] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 14:00:07,235 [INFO] 127.0.0.1 - - [16/Jan/2023 14:00:07] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 14:00:10,440 [INFO] 127.0.0.1 - - [16/Jan/2023 14:00:10] "[33mGET /bookmarks.html HTTP/1.1[0m" 404 -
+2023-01-16 14:00:22,780 [INFO] 127.0.0.1 - - [16/Jan/2023 14:00:22] "GET /bookmarks/add/2 HTTP/1.1" 200 -
+2023-01-16 14:00:22,854 [INFO] 127.0.0.1 - - [16/Jan/2023 14:00:22] "[33mGET /bookmarks/add/static/css/styles.min.css HTTP/1.1[0m" 404 -
+2023-01-16 14:06:58,360 [INFO]  * Detected change in 'C:\\Users\\foulj\\PycharmProjects\\CourseWork3\\dao\\dao_.py', reloading
+2023-01-16 14:06:58,396 [INFO]  * Restarting with stat
+2023-01-16 14:06:58,840 [WARNING]  * Debugger is active!
+2023-01-16 14:06:58,845 [INFO]  * Debugger PIN: 353-574-018
